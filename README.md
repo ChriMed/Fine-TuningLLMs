@@ -14,4 +14,3 @@ Learning rate multiplier: The rate multiplier modifies the model's original lear
 
 Google Gemini's Default Configuration:
 Epoch: 5 Batch size: 4 Learning rate:0.001
-
